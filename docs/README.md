@@ -42,3 +42,10 @@ trabalho-bd/
 ├── modelo-conceitual-trabalho-bd.brM3
 └── scripts/
 
+## Links importantes
+
+- **Documento da Parte 1 (Overleaf):**  
+  https://www.overleaf.com/3866979274sdgbmxtnjwsj#59caac
+
+- **Dataset utilizado no trabalho (Google Sheets):**  
+  https://docs.google.com/spreadsheets/d/1EcOmmLXGHlNQO0O91EkX2WBzx9sLmkN-F6ZfCrSr3tM/edit?usp=sharing
