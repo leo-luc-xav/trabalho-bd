@@ -1,0 +1,69 @@
+﻿openalex_id,nome,ror,pais,codigo_pais,cidade,regiao,tipo,status,quantidade_trabalhos,numero_citacoes,h_index,i10_index,media_citacoes_2_anos
+I1294671590,Centre National de la Recherche Scientifique,https://ror.org/02feahw73,France,FR,Paris,Île-de-France,government,active,1743165,194303670,2530,2616663,2.575476210019426
+I17974374,Universidade de São Paulo,https://ror.org/036rp1748,Brazil,BR,São Paulo,São Paulo,education,active,609708,27728098,939,534618,2.1117941457720155
+I8204097,Ludwig-Maximilians-Universität München,https://ror.org/05591te55,Germany,DE,Munich,Bavaria,education,active,343733,34382633,1235,417210,3.8402136452474376
+I111979921,Northwestern University,https://ror.org/000e0be47,United States,US,Evanston,Illinois,education,active,339938,41463335,1595,417454,4.71453683101993
+I879563668,Universidade Estadual Paulista (Unesp),https://ror.org/00987cb86,Brazil,BR,São Paulo,São Paulo,education,active,228493,8006170,503,183012,1.7182212023076757
+I181391015,Universidade Estadual de Campinas (UNICAMP),https://ror.org/04wffgt70,Brazil,BR,Campinas,São Paulo,education,active,227443,8597245,596,172920,1.9442700712701184
+I122140584,Universidade Federal do Rio de Janeiro,https://ror.org/03490as77,Brazil,BR,Rio de Janeiro,Rio de Janeiro,education,active,209881,8650261,626,158991,1.780973141844633
+I118347636,Australian National University,https://ror.org/019wvm592,Australia,AU,Canberra,Australian Capital Territory,education,active,200599,15320179,1091,174920,4.673200194385949
+I130442723,Universidade Federal do Rio Grande do Sul,https://ror.org/041yk2d64,Brazil,BR,Porto Alegre,Rio Grande do Sul,education,active,186521,6900906,545,139199,1.8216037186029652
+I39804081,Sorbonne Université,https://ror.org/02en5vm52,France,FR,Paris,Île-de-France,education,active,184282,10478132,910,143075,4.257858850615426
+I110200422,Universidade Federal de Minas Gerais,https://ror.org/0176yjw32,Brazil,BR,Belo Horizonte,Minas Gerais,education,active,163341,6397616,530,132576,1.9795386349133073
+I4104125,Universidade Federal de Santa Catarina,https://ror.org/041akq887,Brazil,BR,Florianópolis,,education,active,126117,3407320,340,75983,1.772261208576998
+I52418104,Universidade Federal do Paraná,https://ror.org/05syd6y78,Brazil,BR,Curitiba,Paraná,education,active,122068,2797050,376,63182,1.2460782820590923
+I150729083,Universidade de Brasília,https://ror.org/02xfp8v59,Brazil,BR,Brasília,Federal District,education,active,113700,2309194,321,52944,1.3808988268501368
+I25112270,Universidade Federal de Pernambuco,https://ror.org/047908t24,Brazil,BR,Recife,Pernambuco,education,active,109717,2543227,331,59851,1.2402970409281584
+I88273585,Universidade Federal de São Paulo,https://ror.org/02k5swt12,Brazil,BR,São Paulo,São Paulo,education,active,99259,5038355,457,98927,2.0740732655110685
+I161127581,Universidade Federal Fluminense,https://ror.org/02rjhbb08,Brazil,BR,Niterói,Rio de Janeiro,education,active,91217,1777435,281,41729,1.1989277084172372
+I56067802,Université de Rennes,https://ror.org/015m7wh34,France,FR,Rennes,Brittany,education,active,84456,4451640,518,74908,5.015330188679245
+I60053951,Universitat Politècnica de València,https://ror.org/01460j859,Spain,ES,Valencia,Valencia,education,active,83414,4709455,494,85173,2.9272843913868125
+I243754102,Universidade Federal do Ceará,https://ror.org/03srtnf24,Brazil,BR,Fortaleza,Ceará,education,active,80150,2465498,305,56734,1.5098039215686274
+I40034438,Universidade do Estado do Rio de Janeiro,https://ror.org/0198v2949,Brazil,BR,Rio de Janeiro,Rio de Janeiro,education,active,79935,3397176,478,61120,1.603859279333534
+I177909021,Universidade Federal de São Carlos,https://ror.org/00qdc6m37,Brazil,BR,São Carlos,,education,active,78352,2094465,272,49960,1.8603538976566236
+I126158947,Universidade Federal da Bahia,https://ror.org/03k3p7647,Brazil,BR,Salvador,Bahia,education,active,75437,1976573,324,42409,1.5381194764515047
+I59606676,Universidade Federal do Pará,https://ror.org/03q9sr818,Brazil,BR,Belém,Pará,education,active,69108,1280421,249,30742,1.1294617262979085
+I35046152,Universidade Federal do Rio Grande do Norte,https://ror.org/04wn09761,Brazil,BR,Natal,Rio Grande do Norte,education,active,68852,1741744,285,40287,1.5973789684632422
+I146165071,Universidade Federal de Viçosa,https://ror.org/0409dgb37,Brazil,BR,Viçosa,Minas Gerais,education,active,64122,2238071,310,56084,1.7909660606812683
+I4210100400,Northwestern University,https://ror.org/00m6w7z96,Philippines,PH,Laoag,Ilocos,education,active,52375,2672389,624,19050,1.8022489108677735
+I32699454,Joint Institute for Nuclear Research,https://ror.org/044yd9t77,Russia,RU,Dubna,,facility,active,50611,10571952,743,122055,3.520571648295309
+I169248161,Universidade Federal de Pelotas,https://ror.org/05msy9z54,Brazil,BR,Pelotas,Rio Grande do Sul,education,active,48096,1745272,352,35038,1.6575231948366276
+I2699952,Pontifícia Universidade Católica do Rio de Janeiro,https://ror.org/01dg47b60,Brazil,BR,Rio de Janeiro,Rio de Janeiro,education,active,45253,950703,275,19665,2.1590716584787395
+I121883995,Johannes Kepler University of Linz,https://ror.org/052r2xn60,Austria,AT,Linz,Upper Austria,education,active,42489,1849300,408,31364,2.77929908302977
+I1283613182,Universidade Tecnológica Federal do Paraná,https://ror.org/002v2kq79,Brazil,BR,Curitiba,Paraná,education,active,40565,643963,181,16081,1.5083107451541964
+I62921916,Universidade Federal Rural de Pernambuco,https://ror.org/02ksmb993,Brazil,BR,Recife,Pernambuco,education,active,34569,687545,185,18255,1.3976909413854353
+I185839726,Institut Universitaire de France,https://ror.org/055khg266,France,FR,Paris,,education,active,30073,916813,318,12158,3.8259509635758246
+I208215962,Université Paul-Valéry Montpellier,https://ror.org/00qhdy563,France,FR,Montpellier,Occitanie,education,inactive,26221,255590,184,4185,0.7099521021820117
+I71437568,Universidade de Pernambuco,https://ror.org/00gtcbp88,Brazil,BR,Recife,Pernambuco,education,active,24570,401562,173,9923,0.7634615384615384
+I61722147,Universidade do Vale do Rio dos Sinos,https://ror.org/05ctmmy43,Brazil,BR,São Leopoldo,Rio Grande do Sul,education,active,23346,353281,183,7675,1.11928263589601
+I10824318,Universidade Federal de Ouro Preto,https://ror.org/056s65p46,Brazil,BR,Ouro Preto,Minas Gerais,education,active,23070,513322,185,12092,1.3164674265591696
+I83648350,Universidade Federal do Estado do Rio de Janeiro,https://ror.org/04tec8z30,Brazil,BR,Rio de Janeiro,Rio de Janeiro,education,active,23008,256479,144,6413,0.7419747081712063
+I21606457,Universidade Estadual de Feira de Santana,https://ror.org/04ygk5j35,Brazil,BR,Feira de Santana,Bahia,education,active,22122,286232,175,5776,0.9119409372993794
+I166595947,Federal University of São João del-Rei,https://ror.org/03vrj4p82,Brazil,BR,São João del Rei,Minas Gerais,education,active,18576,442233,211,9405,1.2616115791747677
+I9736820,École de Technologie Supérieure,https://ror.org/0020snb74,Canada,CA,Montreal,Quebec,education,active,17973,677241,239,13582,3.4209940652818993
+I44202434,Fundação Getulio Vargas,https://ror.org/01evzkn27,Brazil,BR,Rio de Janeiro,Rio de Janeiro,education,active,17528,233655,160,4232,1.1216378276511907
+I2802519937,Institut de Recherche en Informatique et Systèmes Aléatoires,https://ror.org/00myn0z94,France,FR,Rennes,Brittany,facility,active,15570,601615,259,10772,1.7717470317421855
+I3125581668,Universidade de Fortaleza,https://ror.org/02ynbzc81,Brazil,BR,Fortaleza,Ceará,education,active,14124,197907,131,4699,0.662033295619848
+I107428990,Instituto Tecnológico de Aeronáutica,https://ror.org/05vh67662,Brazil,BR,São José dos Campos,São Paulo,education,active,13182,262023,149,6479,1.5857347230737788
+I4405267372,Instituto de Física de São Carlos,https://ror.org/02f1crb75,Brazil,BR,São Carlos,São Paulo,education,active,12469,660437,214,14228,3.5969862135299775
+I59530521,Universidade Federal do Vale do São Francisco,https://ror.org/00devjr72,Brazil,BR,Petrolina,Pernambuco,education,active,11116,151271,108,4078,0.7960066132519394
+I4210131693,Estácio (Brazil),https://ror.org/02vej5573,Brazil,BR,Rio de Janeiro,Rio de Janeiro,company,active,10128,136346,156,2089,0.4111525623404673
+I3018325552,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará",https://ror.org/02225fd27,Brazil,BR,Fortaleza,,government,active,9898,94590,99,2094,1.0635155096011817
+I2802295813,Universidade Estadual de Mato Grosso do Sul,https://ror.org/02ggt9460,Brazil,BR,Dourados,Mato Grosso do Sul,education,active,9408,98426,89,2838,0.9700292397660819
+I1317776637,Universidade Federal do Acre,https://ror.org/05hag2y10,Brazil,BR,Rio Branco,Acre,education,active,9206,124857,123,2283,0.8578779276082328
+I4210159731,LIP6,https://ror.org/05krcen59,France,FR,Paris,Île-de-France,facility,active,8640,258563,176,5051,2.027027027027027
+I4210113430,Tecnalia,https://ror.org/02fv8hj62,Spain,ES,Donostia / San Sebastian,Basque Country,other,active,7252,387334,202,6365,3.1987797045600512
+I4210144834,Universidade Federal de Roraima,https://ror.org/03ehp1h78,Brazil,BR,Boa Vista,Roraima,education,active,6955,51415,73,1375,0.5863765863765864
+I4210124990,Faculdades Guarulhos,https://ror.org/02s6maw65,Brazil,BR,Guarulhos,São Paulo,other,active,5530,501,8,4,0.00010208248264597796
+I4400600936,Escola de Administração de Empresas de São Paulo,https://ror.org/02c0rrp38,Brazil,BR,São Paulo,São Paulo,education,active,4900,64480,101,1309,1.7222222222222223
+I110676245,Universidade Católica de Pelotas,https://ror.org/0376myh60,Brazil,BR,Pelotas,Rio Grande do Sul,education,active,4653,174414,155,2950,0.8789625360230547
+I48890080,Brandon University,https://ror.org/02qp25a50,Canada,CA,Brandon,,education,active,4352,126596,130,2078,4.054156171284634
+I120163777,OTH Regensburg,https://ror.org/04b9vrm74,Germany,DE,Regensburg,Bavaria,education,active,3605,51401,88,1157,1.472787702534275
+I4210110712,Universidade de Cuiabá,https://ror.org/01yztcr70,Brazil,BR,Cuiabá,,education,active,2967,36254,63,931,0.3229321446260525
+I4210087059,Technology Innovation Institute,https://ror.org/001kv2y39,United Arab Emirates,AE,Abu Dhabi,Abu Dhabi,facility,active,2836,61622,106,1301,6.338509316770186
+I4210088975,Instituto Brasileiro de Informação em Ciência e Tecnologia,https://ror.org/006c42y96,Brazil,BR,Brasília,,facility,active,2732,5656,33,111,0.10048102618920364
+I3018999404,Centro Universitário de Belo Horizonte,https://ror.org/04m3xd186,Brazil,BR,Belo Horizonte,,education,active,2475,18475,56,450,0.8797061524334252
+I4210135384,Centro Universitário São Lucas,https://ror.org/03z41xz33,Brazil,BR,Porto Velho,,education,active,1507,5522,27,124,0.2835997631734754
+I4387153859,Universidade Federal do Agreste de Pernambuco,https://ror.org/03s3m1w94,Brazil,,Garanhuns,,education,active,1439,11794,38,332,1.3483502538071066
+I4210088694,Faculdade Redentor,https://ror.org/00720xw25,Brazil,BR,Itaperuna,,education,active,869,3094,24,80,0.7574626865671642
+I4210098711,Ministério da Ciência e Tecnologia,https://ror.org/00xtpf729,Angola,AO,Luanda,,government,active,94,899,16,29,0.375
