@@ -41,8 +41,9 @@ trabalho-bd/
 ├── docs/
 ├── modelo-conceitual-trabalho-bd.brM3
 └── scripts/
+```
 
-## Links importantes
+# Links importantes
 
 - **Documento da Parte 1 (Overleaf):**  
   https://www.overleaf.com/3866979274sdgbmxtnjwsj#59caac
